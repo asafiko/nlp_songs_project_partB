@@ -257,8 +257,3 @@ print("Accuracy: %0.2f" % forest.score(test_x, test_y))
     
 
 Our model has an accuracy of **92%** for this train set and test set, and a mean accuracy of **90.28%** with the 10-fold cross-validation, which are not bad results!
-
-
-```python
-
-```
